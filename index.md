@@ -1,11 +1,6 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-li {
-  display: inline;
-}
-</style>
 </head>
 <body>
   <h2>Welcome to My Page!</h2>
