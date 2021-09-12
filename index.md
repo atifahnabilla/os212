@@ -8,6 +8,7 @@
     <li><a href="#C4">HOME</a></li>
     <li><a href="https://github.com/atifahnabilla/os212" target="_blank">REPO</a></li>
     <li><a href="TXT/mylog.txt" target="_blank">LOG</a></li>
+    <li><a href="links.md" target="_blank">LINKS</a></li>
   </ul>
   <p>Hi, I'm Atifah! This page is built for OS course.</p>
 </body>
