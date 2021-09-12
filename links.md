@@ -5,7 +5,8 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [awk example](hhttps://likegeeks.com/awk-command/)<br>
+We can learn more about awk through some examples here.
+2. [scripting basic](https://www.belajarlinux.org/membuat-bash-script-linux/)
+This site helps us to understan basic things of scripting. It very helpful
+for beginners.
