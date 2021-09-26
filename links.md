@@ -15,3 +15,5 @@ As a beginner in C, I learn all the basics here. I like the way how this site de
 There are also pretty much examples, so it gets easier to understand.
 4. [intro to cyber security](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
 So much insight from this video.
+5. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+This site helps me to learn about linux file hierarchy. It also explain each root directories in understandable words. 
