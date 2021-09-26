@@ -15,3 +15,8 @@ ZCZC W01 10 L04 Github Pages related
 ZCZC W02 75 L09 Assignment in General
 ZCZC W02 45 L32 Youtube: study, etc
 ZCZC W02 30 L26 C-languange
+ZCZC W03 90 L02 ZOOM meetings related
+ZCZC W03 90 L09 Assignment in General
+ZCZC W03 25 L06 References/Books/Documents/GSGS related
+ZCZC W03 45 L07 Demo related
+ZCZC W03 15 L06 References/Books/Documents/GSGS related
