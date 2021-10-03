@@ -17,3 +17,7 @@ There are also pretty much examples, so it gets easier to understand.
 So much insight from this video.
 5. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
 This site helps me to learn about linux file hierarchy. It also explain each root directories in understandable words. 
+6. [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+This site explain basic concepts of anything about memory management. It also provide visualization in each topic, so you won't be confused while learning this week lesson.
+7. [pointer in c](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)<br>
+I highly recommend this site for learning about pointer in C. This site has good explanation about C and also some simple examples about ptr things:)
