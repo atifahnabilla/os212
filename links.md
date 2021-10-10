@@ -21,3 +21,5 @@ This site helps me to learn about linux file hierarchy. It also explain each roo
 This site explain basic concepts of anything about memory management. It also provide visualization in each topic, so you won't be confused while learning this week lesson.
 7. [pointer in c](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)<br>
 I highly recommend this site for learning about pointer in C. This site has good explanation about C and also some simple examples about ptr things:)
+8. [Virtual Memory in OS](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+In week 5, we learn about virtual memory. This site is really helpful to understand overview of virtual memory.
