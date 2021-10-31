@@ -23,3 +23,7 @@ This site explain basic concepts of anything about memory management. It also pr
 I highly recommend this site for learning about pointer in C. This site has good explanation about C and also some simple examples about ptr things:)
 8. [Virtual Memory in OS](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 In week 5, we learn about virtual memory. This site is really helpful to understand overview of virtual memory.
+9. [fork in c-lang](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This site give basic and simple examples about fork() and they explain it clearly. Although given examples are pretty easy, but those stuffs help me understand harder problems.
+10. [more about fork()](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
+I think another alternative for this video's thumbnail or title is "Helping You in One Night Before Exam"
