@@ -27,3 +27,5 @@ In week 5, we learn about virtual memory. This site is really helpful to underst
 This site give basic and simple examples about fork() and they explain it clearly. Although given examples are pretty easy, but those stuffs help me understand harder problems.
 10. [more about fork()](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
 I think another alternative for this video's thumbnail or title is "Helping You in One Night Before Exam"
+11. [Semaphore in c](https://www.delftstack.com/howto/c/semaphore-example-in-c/) <br>
+I learn about semaphore in here (besides demo and slide). The examples given on this site are simple though those all are still worthy about this lesson. 
